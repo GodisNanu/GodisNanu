@@ -4,7 +4,7 @@ I'm a Neurodivergent Homeschooling Mom & Artist who loves problem sovling. I mos
 
 # My Skills
 <p>
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Skills&lineCount=1&theme=hacker&bg=%23101010&badge=%23222222&border=%23222222&titleColor=%231DDB07&line1=react%2Creact%2C58a6ff%3Bjavascript%2Cjavascript%2Ce1d63d%3Bnode.js%2Cnode.js%2Cf4eeee%3Bcss%2Ccss%2C1f16d9%3Bexpress%2Cexpress%2Ce9e0e0%3Bfigma%2Cfigma%2Cb80dc9%3Bmongodb%2Cmongodb%2C52b115%3Bcanva%2Ccanva%2C53a1ea%3B" alt="Skills" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Skills&lineCount=2&theme=hacker&bg=%23101010&badge=%23222222&border=%23222222&titleColor=%231DDB07&line1=html5%2Chtml5%2C04227b%3Bcss%2Ccss%2C0b88ee%3Bjavascript%2Cjavascript%2Cd6ae1a%3Breact%2Creact%2C0a84e6%3B&line2=node.js%2Cnode.js%2Cece3e3%3Bexpress%2Cexpress%2Ce1e4ea%3Bfigma%2Cfigma%2Cdd08a8%3Bcanva%2Ccanva%2C700de5%3B" alt="Skills" />
 </p>
 
 - 🔭 I’m currently working on https://github.com/GodisNanu/Interdependent_Families and https://github.com/GodisNanu/se_project_react
