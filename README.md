@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Neurodivergent Homeschooling Mom & Artist who loves problem sovling. I most enjoy expressing myself through creativity and innovative ideas. I've been designing websites since 2011, but am new to the world of software engineering or writing code. 
+I'm a Neurodivergent Homeschooling Mom & Artist who loves problem sovling. I most enjoy expressing myself through creativity and innovative ideas. I've been designing my own websites since 2011, but am new to the world of software engineering(writing code). 
 
 ## My Skills
 <p>
