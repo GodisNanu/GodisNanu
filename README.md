@@ -8,9 +8,9 @@ I'm a Neurodivergent Homeschooling Mom & Artist who loves problem sovling. I mos
 </p>
 
 ## Projects
-- 🔭 I’m currently working on https://github.com/GodisNanu/Interdependent_Families and https://github.com/GodisNanu/se_project_react
+- 🔭 I’m currently working on https://github.com/GodisNanu/interdependent_families_universal and https://github.com/GodisNanu/se_project_react
 - 🌱 I’m currently learning c# 
-- 👯 I’m looking to collaborate on projects involving creativity, sustainability, or humanitarian efforts. I prefer projects that will help me hone my current skills or learn a new, relevant, innovative, and emerging technologies.
+- 👯 I’m looking to collaborate on projects involving holistic healing, artistic creativity, sustainability, or humanitarian efforts. I prefer projects that will help me hone my current skills or to learn a new, relevant, innovative, and emerging technologies.
 
 ## Contact
 - 📫 How to reach me: godisnanu@gmail.com or https://www.linkedin.com/in/joanna-hazel/
